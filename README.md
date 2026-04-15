@@ -37,27 +37,9 @@
 
 ---
 
-## **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LimbasiyaDev&show_icons=true&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimbasiyaDev&layout=compact&theme=dark&hide_border=false" />
-</p>
-
----
-
 ## **🎯 Live Demo**
 🚀 Check out my **Portfolio Website**:  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://devlimbasiyaportfolio.web.app)
-
----
-
-## **🏆 GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LimbasiyaDev&theme=onedark&no-bg=true" />
-</p>
 
 ---
 
